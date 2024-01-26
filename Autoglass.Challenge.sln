@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Challenge.API", "Autoglass.Challenge.API\Autoglass.Challenge.API.csproj", "{48F0934C-24D2-4E76-A945-2483E206489A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Challenge.Domain", "Autoglass.Challenge.Domain\Autoglass.Challenge.Domain.csproj", "{A3CAF1C9-49FA-41DA-9ACF-ABDCBB2499FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Challenge.Infra", "Autoglass.Challenge.Infra\Autoglass.Challenge.Infra.csproj", "{57305585-BB29-4832-B6F9-7B7E5B9ABF4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Challenge.IoC", "Autoglass.Challenge.IoC\Autoglass.Challenge.IoC.csproj", "{88C4F685-3430-4593-BC00-30DCC0BA9E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Challenge.Application", "Autoglass.Challenge.Application\Autoglass.Challenge.Application.csproj", "{D5315887-26A0-471A-9340-076081CCFAB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoglass.Challenge.DTOs", "Autoglass.Challenge.DTOs\Autoglass.Challenge.DTOs.csproj", "{8BDC1700-1560-4C42-BF25-2FB7D1639C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F0934C-24D2-4E76-A945-2483E206489A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F0934C-24D2-4E76-A945-2483E206489A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F0934C-24D2-4E76-A945-2483E206489A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F0934C-24D2-4E76-A945-2483E206489A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CAF1C9-49FA-41DA-9ACF-ABDCBB2499FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CAF1C9-49FA-41DA-9ACF-ABDCBB2499FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CAF1C9-49FA-41DA-9ACF-ABDCBB2499FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CAF1C9-49FA-41DA-9ACF-ABDCBB2499FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57305585-BB29-4832-B6F9-7B7E5B9ABF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57305585-BB29-4832-B6F9-7B7E5B9ABF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57305585-BB29-4832-B6F9-7B7E5B9ABF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57305585-BB29-4832-B6F9-7B7E5B9ABF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C4F685-3430-4593-BC00-30DCC0BA9E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C4F685-3430-4593-BC00-30DCC0BA9E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C4F685-3430-4593-BC00-30DCC0BA9E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C4F685-3430-4593-BC00-30DCC0BA9E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5315887-26A0-471A-9340-076081CCFAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5315887-26A0-471A-9340-076081CCFAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5315887-26A0-471A-9340-076081CCFAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5315887-26A0-471A-9340-076081CCFAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDC1700-1560-4C42-BF25-2FB7D1639C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDC1700-1560-4C42-BF25-2FB7D1639C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDC1700-1560-4C42-BF25-2FB7D1639C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDC1700-1560-4C42-BF25-2FB7D1639C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF6F0FC1-BC76-4E96-BC9D-782B2A5BD0B7}
+	EndGlobalSection
+EndGlobal
